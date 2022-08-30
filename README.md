@@ -8,10 +8,10 @@ This data is organised per state per year.
 
 For the ananlysis I have certain goal I would like to achieve. 
 
-- I want to analyse the increase or decrease in bee populations/total production/efficiency of the bees and determine what canbe concluded from this. 
+- I want to analyse the increase or decrease in bee populations/total production/efficiency of the bees and determine what can be concluded from this. 
 - Second I want to do an prediction on the future of honey production and prices in the USA through linear regression. 
 
-- As a second step in the analysis proces I will be comparing the data set to a data set on pesticides, pollution and climate te determine what the main factors are that are influcencing the change in this essential industry. 
+- As a second step in the analysis proces I will be comparing the data set to a data set on pesticides and pollution to determine what the main factors are that are influcencing the change in this essential industry. 
 
 - Finally I would like to give a recommendation to future beekeepers to afvice them where they should locate themselves based on their aspirations.
 
