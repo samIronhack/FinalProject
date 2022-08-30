@@ -37,7 +37,9 @@ In this image we can see a similar graph but this one displays the decrease in a
 
 
 
-In the following image we can see the efficiency, price of honey per lb and the total production value of the state. If you were a honey producer during these years and care most about total production value you should have located yourself in North Dakota if you cared most about efficiency to reduce workload you should have located yourself in Louisiana and if you care most about the price of your product because you want to be an high quality producer you should locate yourself in Verginia. 
+In the following image we can see the efficiency, price of honey per lb and the total production value of the state. If you were a honey producer during these years and care most about total production value you should have located yourself in North Dakota if you cared most about efficiency to reduce workload you should have located yourself in Louisiana and if you care most about the price of your product because you want to be an high quality producer you should locate yourself in Virginia. 
+
+Later on we will take a look where it is best to locate yourself in 10 years time and see if this is still the best place to locate your self as a beekeeper. 
 
 ![All states compared](https://user-images.githubusercontent.com/104360125/187408506-c5039dc8-b27c-4434-8ef8-33176269f713.png)
 
@@ -87,10 +89,19 @@ Just as for the pesticide dataset I did correlation heatmap to determine what po
 The influnecial values in this matrix are mainly nagative corelational values as is expected. We can see that the CO mean, SO2 mean and NO2 mean are developping over the years. 
 When plotting this in Tablea we can see the following increase.
 
-The columns most effected by pollution are the price per lb, production value and the stock that is held by the USA
+The columns most effected by pollution are the price per lb, production value and the stock that is held by the USA with the price per lb being the most heavy hit by pollution with 3 negative values over -0.25
 
 The main pollution culprits are NO2 mean (nitrogen dioxide) S02 (sulfur) and CO (carbon monoxide)
 
+
+Now it is time to do some linear regression to see where bee colonies could be in 5 years time based on the data we have. 
+
+For 2027 I am able to give the following recommendations..
+
+
+
+
+Over all conclusions. 
 
 
 
