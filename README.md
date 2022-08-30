@@ -77,7 +77,10 @@ The negative effects of pesticides can however be seen in the average yield per 
 
 NEONIC pesticedes although not the main culprit in effecting bee populations and honey production are defenitly an influencial factor but are countered by human influence. 
 
+This is also visible on the following graphs: 
+![All states stop using pesticide due to new laws (1)](https://user-images.githubusercontent.com/104360125/187459606-3a5a9c75-ad1a-4a62-9775-b05f7414f503.png)
 
+The yellow line displays the average yield per colony which as been going through a downward trend during the entire period and doesnt seem to be affected by use or stopping to use pesticides, the same counts for the average number of colonies which is compared to pesticide use in the graph underneath. 
 
 The second dataset against which the bees datset was compared is the dataset on pollution in the USA. The pollution dataset has a range of 13 years, going from 2000 until 2012. When mergin the dataset the bees dataset was reduced to the same number of years to avoid null values. 
 
