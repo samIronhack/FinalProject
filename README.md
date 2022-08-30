@@ -41,7 +41,8 @@ In the following image we can see the efficiency, price of honey per lb and the 
 
 Later on we will take a look where it is best to locate yourself in 10 years time and see if this is still the best place to locate your self as a beekeeper. 
 
-![All states compared](https://user-images.githubusercontent.com/104360125/187408506-c5039dc8-b27c-4434-8ef8-33176269f713.png)
+![All states compared (1)](https://user-images.githubusercontent.com/104360125/187442881-1d4fc5a0-8188-42c7-b13c-b2e82ee6e578.png)
+
 
 
 
@@ -72,9 +73,9 @@ The top 5 most influencial values on this heatmap are the relation between:
 Over all we can see that ll NEONIC pesticides combined effect the size of colonies with 0.19, the price per lb with 0.28 and the productionvalue with 0.24.
 
 Suprising is however is that the use of these pesticides seems to be positively influencing the total production, the total stock and the number of colonies. This can however be explained by human efforts of re polulaton bee colonies and "cultivating" more bees to counter the effects and therfore changing the data.
-The negative effects of pesticides can be seen in the average yield per colony which mainly shows negative correlation (very small though) 
+The negative effects of pesticides can however be seen in the average yield per colony which mainly shows negative correlation (very small though) 
 
-NEONIC pesticedes although not the main culprit in effecting bee populations and honey production are defenitly an influencial factor. 
+NEONIC pesticedes although not the main culprit in effecting bee populations and honey production are defenitly an influencial factor but are countered by human influence. 
 
 
 
@@ -103,12 +104,11 @@ For 2027 I am able to give the following recommendations..
 
 Over all conclusions. 
 
+Due to big efforts by beekeepers the datasets that I have used are a bit confusing and contradicting the news that we get about the status of bees. 
 
+- We can conclude that humans are doing great work in countering the negative factors that are influenceing bee populations and the efficiency of these bees.
 
-
-
-
-
+- To get a better insight into bee populations and make better predictions we need more data on repopulation through human intervention, more information on colony loss and more specific data on local and migratory bees. Bees by themselves migrate throughout the states and also get moved around the country to facilitate pollination on agricultural crops. 
 
 
 
