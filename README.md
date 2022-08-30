@@ -36,5 +36,18 @@ In this image we can see a similar graph but this one displays the decrease in a
 
 
 
+In the following image we can see the efficiency, price of honey per lb and the total production value of the state. If you were a honey producer during these years and care most about total production value you should have located yourself in North Dakota if you cared most about efficiency to reduce workload you should have located yourself in Louisiana and if you care most about the price of your product because you want to be an high quality producer you should locate yourself in Verginia. 
+
+
+
+Following this analysis I did a comparision between this data set and the two data sets that I had mentioned before.
+
+First we will be looking at the use of pesticides in the USA
+
+
+![States stop using pesticide due to new laws (1)](https://user-images.githubusercontent.com/104360125/187408234-5a6db1ac-9827-466d-ad8c-9e673b8dc443.png) Use of NEONIC pesticides in the USA. 
+
+
+When plotting the use of NEONIC pesticides in tableau we can see that the use of these pesticides really took off between 2002 - 2004. The only state that was using it before these years was California. Looking at 2015 we can see that almost all states but again besides California stopped the use of these pesticides. I did some quick reseach and found out that this was due to a new bill that would ban the use of these pestices, the use of them increased again after this date since the bill never passed. 
 
 
