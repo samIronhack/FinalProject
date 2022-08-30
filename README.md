@@ -30,6 +30,7 @@ We can see that the average number of colonies is quite steady over the year but
 
 ** (add % decrease per region)
 
+
 In this image we can see a similar graph but this one displays the decrease in avarage production and the increased price per lb while the increased production value is displayed below. 
 
 ![Bees prodction vs price per lb](https://user-images.githubusercontent.com/104360125/187389607-9bbccb2d-5308-4128-bd11-0142b4bcb91a.png)
@@ -37,6 +38,9 @@ In this image we can see a similar graph but this one displays the decrease in a
 
 
 In the following image we can see the efficiency, price of honey per lb and the total production value of the state. If you were a honey producer during these years and care most about total production value you should have located yourself in North Dakota if you cared most about efficiency to reduce workload you should have located yourself in Louisiana and if you care most about the price of your product because you want to be an high quality producer you should locate yourself in Verginia. 
+
+![All states compared](https://user-images.githubusercontent.com/104360125/187408506-c5039dc8-b27c-4434-8ef8-33176269f713.png)
+
 
 
 
@@ -49,5 +53,51 @@ First we will be looking at the use of pesticides in the USA
 
 
 When plotting the use of NEONIC pesticides in tableau we can see that the use of these pesticides really took off between 2002 - 2004. The only state that was using it before these years was California. Looking at 2015 we can see that almost all states but again besides California stopped the use of these pesticides. I did some quick reseach and found out that this was due to a new bill that would ban the use of these pestices, the use of them increased again after this date since the bill never passed. 
+
+
+
+To see the influence of these pesticides on the honey prduction I created a correlation heatmap just like this one. 
+
+![Screenshot 2022-08-30 at 12 08 45](https://user-images.githubusercontent.com/104360125/187410503-e885074c-3ca0-4b59-afbc-e56f07a632e4.png)
+
+The top 5 most influencial values on this heatmap are the relation between:
+- nIMIDACLOPRID and the number of colonies. The correlational valus is 0.41
+- nIMIDACLOPRID and production value with a collolational value of 0.36
+- nACETAMIPRID and the number of colonies. The correlational value is 0.32
+- nIMIDACLOPRID and and the total prodcution with a corrolational value of 0.27
+- nCLOTHIANIDIN	and the price per lb with a collolational value of 0.26
+
+Over all we can see that ll NEONIC pesticides combined effect the size of colonies with 0.19, the price per lb with 0.28 and the productionvalue with 0.24.
+
+Suprising is however is that the use of these pesticides seems to be positively influencing the total production, the total stock and the number of colonies. This can however be explained by human efforts of re polulaton bee colonies and "cultivating" more bees to counter the effects and therfore changing the data.
+The negative effects of pesticides can be seen in the average yield per colony which mainly shows negative correlation (very small though) 
+
+NEONIC pesticedes although not the main culprit in effecting bee populations and honey production are defenitly an influencial factor. 
+
+
+
+The second dataset against which the bees datset was compared is the dataset on pollution in the USA. The pollution dataset has a range of 13 years, going from 2000 until 2012. When mergin the dataset the bees dataset was reduced to the same number of years to avoid null values. 
+
+
+Just as for the pesticide dataset I did correlation heatmap to determine what pollution factors play a role in the bee population and honey production. 
+
+![Screenshot 2022-08-30 at 12 50 10](https://user-images.githubusercontent.com/104360125/187418250-065cf918-d155-4374-86f7-ec1125078770.png)
+
+
+The influnecial values in this matrix are mainly nagative corelational values as is expected. We can see that the CO mean, SO2 mean and NO2 mean are developping over the years. 
+When plotting this in Tablea we can see the following increase.
+
+The columns most effected by pollution are the price per lb, production value and the stock that is held by the USA
+
+The main pollution culprits are NO2 mean (nitrogen dioxide) S02 (sulfur) and CO (carbon monoxide)
+
+
+
+
+
+
+
+
+
 
 
