@@ -98,14 +98,18 @@ The columns most effected by pollution are the price per lb, production value an
 The main pollution culprits are NO2 mean (nitrogen dioxide) S02 (sulfur) and CO (carbon monoxide)
 
 
-Now it is time to do some linear regression to see where bee colonies could be in 5 years time based on the data we have. 
+#Regression
+Now it is time to do some linear regression to see where bee colonies could be in 5 years time based on the data we have. For the regression we will only be looking at the bees data set and not at the secondary datasets on pollution and pesticides as we are not 100% sure how these are affecting the bees in the USA. 
+
+
+
 
 For 2027 I am able to give the following recommendations..
 
 
 
 
-Over all conclusions. 
+#Overall conclusions. 
 
 Due to big efforts by beekeepers the datasets that I have used are a bit confusing and contradicting the news that we get about the status of bees. 
 
